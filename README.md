@@ -10,4 +10,4 @@ This project is small implementation of **On-Device DL-based Techniques** discus
 4. TensorFlow Lite
 5. Keras
 6. OpenCv
-7 .Numpy, Matplotlib
+7. Numpy, Matplotlib
