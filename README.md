@@ -20,5 +20,6 @@ designed for resource-constrained devices such as mobile phones and embedded dev
 
 ***
 **Why Use TensorFlow Lite ?**
+
 TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
 ***
