@@ -21,3 +21,23 @@ model reduction techniques (e.g., model compression, parameter pruning) to enabl
 
 TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
 ***
+
+**Dataset**
+
+We have used our custom Dog and Cat dataset to train DenseNet TensorFlow Model. Dataset can be found here <http://temp.endeavourindustries.in/Dataset.zip>
+
+***
+**Working**
+
+**Objective :** Given an input image. Identify whether it is a Cat or a Dog using Deep Learning.
+
+1. We load pre-trained DenseNet Model.
+2. Then using Fine Tuning and Transfer Learning, we train the model with our own dataset.
+3. After Training, we measure the accuracy for TensorFlow Model.
+4. We then convert Tensorflow Model to Tensorflow Lite Model.
+5. Measure the accuracy for TensorFlow Lite Model.
+
+***
+**How to Run?**
+
+Download or Import the Colab and run it in Google Colab Only.
