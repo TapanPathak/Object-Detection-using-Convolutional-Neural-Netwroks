@@ -4,9 +4,7 @@ This project is small implementation of **On-Device DL-based Techniques** discus
 
 ***
 **Aim:** Here we adopt On-Device Deep Learning-based approach for Object Detection ( A Use Case of Smart Doorbell). This approach employs various
-model reduction techniques (e.g., model compression, parameter pruning) to enable its deployment on
-IoT devices, while maintaining a reasonably good object detection accuracy.The current implementation uses DenseNets, which is a family of computer vision models for TensorFlow,
-designed for resource-constrained devices such as mobile phones and embedded devices.
+model reduction techniques (e.g., model compression, parameter pruning) to enable its deployment on IoT devices, while maintaining a reasonably good object detection accuracy. The current implementation uses DenseNets, which is a family of computer vision models for TensorFlow, designed for resource-constrained devices such as mobile phones and embedded devices.
 ***
 **Technologies/Concepts/Librabries Used :**
 1. Fine Tuning 
@@ -21,5 +19,5 @@ designed for resource-constrained devices such as mobile phones and embedded dev
 ***
 **Why Use TensorFlow Lite ?**
 
-TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
+TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
 ***
