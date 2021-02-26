@@ -11,8 +11,14 @@ designed for resource-constrained devices such as mobile phones and embedded dev
 **Technologies/Concepts/Librabries Used :**
 1. Fine Tuning 
 2. Transfer Learning
-3. TensorFlow
-4. TensorFlow Lite
-5. Keras
-6. OpenCv
-7. Numpy, Matplotlib
+3. CNN
+4. TensorFlow
+5. TensorFlow Lite
+6. Keras
+7. OpenCv
+8. Numpy, Matplotlib
+
+***
+**Why Use TensorFlow Lite ?**
+TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.TensorFlow Lite is designed to make it easy to perform machine learning on devices, "at the edge" of the network, instead of sending data back and forth from a server.
+***
