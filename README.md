@@ -4,10 +4,10 @@ This project is small implementation of **On-Device DL-based Techniques** discus
 
 ***
 **Technologies/Concepts/Librabries Used :**
-1.Fine Tuning
-2.Transfer Learning
-3.TensorFlow
-4.TensorFlow Lite
-5.Keras
-6.OpenCv
-7.Numpy, Matplotlib
+1. Fine Tuning 
+2. Transfer Learning
+3. TensorFlow
+4. TensorFlow Lite
+5. Keras
+6. OpenCv
+7 .Numpy, Matplotlib
